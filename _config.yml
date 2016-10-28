@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [notes, projects]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /hydejack/public/img/backdrop.jpg
+image:               /public/img/backdrop.jpg
 color:               '#A85641'
 
 # Fonts
