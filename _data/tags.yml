@@ -12,16 +12,15 @@
 # ~~~
 
 projects:
-  name: projects
-  image: /hydejack/public/img/hyde.jpg
+  name: Projects
+  image: /hydejack/public/img/drop1.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    My projects
 
 notes:
-  name: notes
-  image: /hydejack/public/img/jekyll.jpg
+  name: Notes
+  image: /hydejack/public/img/drop3.jpg
   color: '#949667'
   description: >
     Interesting Learnings on Various Topics

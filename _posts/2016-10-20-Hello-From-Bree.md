@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Hello from Bree
+title: Random Thoughts on Newari Language
 tags: [notes]
+description: >
+  Newari Language Examples
 ---
 
 # Hello from Bree
@@ -25,3 +27,6 @@ tags: [notes]
 <html>
 </html>
 ```
+
+### Markdown CheatSheet
+[MarkDown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
