@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [notes, projects]
 
 # Fallback image and color if not overwritten for tag or post
-image:               public/img/backdrop.jpg
+image:               /public/img/backdrop.jpg
 color:               '#A85641'
 
 # Fonts
@@ -40,8 +40,8 @@ author:
   name:              'Borui Zhang'
 
   # This photo will be used in the about section
-  photo:             public/img/myPic.jpg
-  photo2x:           public/img/myPic.jpg
+  photo:             /public/img/myPic.jpg
+  photo2x:           /public/img/myPic.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   
