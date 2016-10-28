@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Curriculum Vitae
 ---
 
 {% include about-short.html author=site.author %}
