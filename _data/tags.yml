@@ -13,14 +13,14 @@
 
 projects:
   name: Projects
-  image: /public/img/drop1.jpg
+  image: public/img/drop1.jpg
   color: '#949667'
   description: >
     My projects
 
 notes:
   name: Notes
-  image: /public/img/drop3.jpg
+  image: public/img/drop3.jpg
   color: '#949667'
   description: >
     Interesting Learnings on Various Topics
