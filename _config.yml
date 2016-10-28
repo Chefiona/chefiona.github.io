@@ -7,7 +7,7 @@ gems:
 permalink:           pretty
 
 # Setup
-url:                 http://qwtel.com
+url:                 http://boruiz.me
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
@@ -40,8 +40,8 @@ author:
   name:              'Borui Zhang'
 
   # This photo will be used in the about section
-  photo:             /hydejack/public/img/myPic.jpg
-  photo2x:           /hydejack/public/img/myPic.jpg
+  photo:             /public/img/myPic.jpg
+  photo2x:           /public/img/myPic.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   
